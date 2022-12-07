@@ -8,9 +8,8 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Web.UI.WebControls.WebParts;
 using System.Web.UI.HtmlControls;
-using DevExpress.Web.ASPxGridView;
+using DevExpress.Web;
 using DevExpress.Data.Filtering;
-using DevExpress.Web.ASPxEditors;
 
 public partial class Grid_Filter_CustomFilterCriteria : System.Web.UI.Page {
     const int ShowAllFilterId = -999;
