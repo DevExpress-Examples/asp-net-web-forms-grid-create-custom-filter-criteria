@@ -7,7 +7,7 @@
 <!-- run online -->
 **[[Run Online]](https://codecentral.devexpress.com/e353/)**
 <!-- run online end -->
-This example demonstrates how to allow users to set custom filter criteria in the Grid View's control filter row.
+This example demonstrates how to allow users to set custom filter criteria in the Grid View control's filter row.
 
 ![Apply Custom Filter Criteria](result.png)
 
@@ -25,4 +25,3 @@ Handle the [AutoFilterCellEditorCreate](https://docs.devexpress.com/AspNet/DevEx
 ## More Examples
 
 - [How to implement a filter row template and use ASPxGridLookup as an editor](https://github.com/DevExpress-Examples/asp-net-web-forms-grid-implement-filter-row-template)
-- 
