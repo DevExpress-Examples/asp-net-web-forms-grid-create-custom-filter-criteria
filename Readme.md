@@ -9,9 +9,6 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # Create the Custom Filter Criteria
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128537118/)**
-<!-- run online end -->
 
 
 <p>This example demonstrates how to use the following events: ProcessColumnAutoFilter, AutoFilterCellEditorCreate and AutoFilterCellEditorInitialize.</p>
