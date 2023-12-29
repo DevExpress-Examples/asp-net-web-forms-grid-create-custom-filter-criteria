@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # Grid View for ASP.NET Web Forms - How to apply custom filter criteria
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128537118/)**
-<!-- run online end -->
 This example demonstrates how to allow users to set custom filter criteria in the Grid View control's filter row.
 
 ![Apply Custom Filter Criteria](result.png)
