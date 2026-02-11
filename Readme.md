@@ -24,7 +24,7 @@ Handle the [AutoFilterCellEditorCreate](https://docs.devexpress.com/AspNet/DevEx
 
 - [How to implement a filter row template and use ASPxGridLookup as an editor](https://github.com/DevExpress-Examples/asp-net-web-forms-grid-implement-filter-row-template)
 <!-- feedback -->
-## Does This Example Address Your Development Requirements/Objectives?
+## Does this example address your development requirements/objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-grid-create-custom-filter-criteria&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-grid-create-custom-filter-criteria&~~~was_helpful=no)
 
